@@ -8,3 +8,5 @@ A wordlist containing potentially vulnerable functions to search for in your cod
   - https://www.youtube.com/watch?v=ajcxjnTFo6A
   - https://www.youtube.com/watch?v=fb-t3WWHsMQ
   - https://www.youtube.com/watch?v=ZaOtY4i5w_U
+- Checklist by OWASP
+  - https://owasp.org/www-project-code-review-guide/
