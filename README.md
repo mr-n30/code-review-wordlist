@@ -13,5 +13,7 @@ A wordlist containing potentially vulnerable functions to search for in your cod
   - https://www.youtube.com/watch?v=ZaOtY4i5w_U
 - Source code review checklist by OWASP
   - https://owasp.org/www-project-code-review-guide/
+- Portswigger Academy - The creators of Burp Suite
+  - https://portswigger.net/web-security
 - Use Google
   - https://www.google.com/search?q=java+readobject+vulnerability
